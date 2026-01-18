@@ -55,13 +55,19 @@ I’m actively expanding my skills into **data science and analytics** through s
 ## 📂 Projects (Coming Soon)
 I’m building a set of clean, beginner-to-intermediate data projects:
 
-- 🔬 **PCR/qPCR Data Analysis** — exploring CT values & trends  
-- 🧪 **ELISA Standard Curve Modelling** — regression & concentration estimation  
-- 📊 **Microbiology Dataset Classification** — ML applied to real-world data  
-- 📁 **Document Workflow Insights** — turning document logs into dashboards  
 
-(If you'd like, I can generate the READMEs and project code templates.)
+## 📂 Projects (Coming Soon)
 
+I am currently developing a series of data-focused projects that demonstrate analytical capability, reproducibility, and practical problem-solving across both R and Python environments.
+
+- 📊 **Data Analysis Using R**  
+  A comprehensive analysis pipeline showcasing data cleaning, transformation, exploratory data analysis, statistical summaries, and visualisation in R. This project highlights structured workflows and best practices for interpreting real-world datasets.
+
+- 📄 **Technical Review of R Markdown for Reproducible Reporting**  
+  A professional, practitioner-focused review of R Markdown, demonstrating how to integrate narrative, code, and visuals into a single reproducible document. Includes examples, templates, and practical recommendations for transparent analytical reporting.
+
+- 🧬 **Health Data Bias Simulation in Python**  
+  A simulation project examining how bias can emerge in health datasets. This work includes synthetic data generation, scenario-based analysis, visualisation, and discussion of approaches to identify, measure, and reduce bias using analytical and statistical techniques.
 ---
 
 ## 🎓 Education
